@@ -22,6 +22,8 @@ This is a list of adopters of OpenFaaS
 
 * [Civo](https://www.civo.com) - Civo Cloud provide a 1-click Kubernetes marketplace application for OpenFaaS
 
+* [Cognite](https://www.cognite.com) - data-science platform hosting models.
+
 * [Contiamo](https://www.contiamo.com) - data-science platform hosting jupyter notebooks and functions for multiple tenants.
 
 * [DigitalOcean](https://www.digitalocean.com) - DigitalOcean provide a one-click droplet and a 1-click Kubernetes marketplace application for OpenFaaS
